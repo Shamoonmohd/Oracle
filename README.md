@@ -13,6 +13,8 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 
 ## Demo
 
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif))
+
 In the project directory, you can run:
 
 ### `npm start`
