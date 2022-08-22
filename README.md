@@ -11,7 +11,7 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
         
 4. Customers - We anticipate three types of users of the oracle.  First, it can be used by sophisticated players such as crypto funds that want to make markets and do arbitrage in tokenized real estate transactions.  Second, it can be used by traditional information providers that want to operate a web front end showing the various tokenized real estate properties.  Third, it can be used by Exchanges that want to offer tokenized real estate tokens for sale to digital asset investors.   The total available real estate market is gigantic, $280 Trillion, with traditional information providers like CoStar valued at $30B and generating $2B in annual revenue.  As Tokenized Real Estate, currently $140M of TVL, grows to eventually become the majority of a real estate, our Oracle can become even more valuable than these traditional providers.
 
-## Available Scripts
+## Demo
 
 In the project directory, you can run:
 
