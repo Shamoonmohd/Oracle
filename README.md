@@ -1,4 +1,4 @@
-# Digital Asset Insight
+# Tokenized Real Estate Oracle
 
 Imagine you've heard about tokenized real estate and all its benefits: backing by a hard asset, inflation protection, and an 8% Cash-on-Cash return.   Where do you go to find a list of properties available?  It turns out that information is spread accross Gnosis, Ethereum, Algorand, and BSC.  Well we solve that by bridging that information from multiple chains and provide it on Polygon (a low cost Ethereum layer 2), so that you can consult our on-chain Proxy to get a list of tokenized real estate assets.  But even then a second problem is you can't get the information you need to decide which token to buy.  For example, what is the Cash On Cash return of the property?  To get that you need on chain information on the property (the price of the token and number of tokens) and off chain information (the net operating income of the property).   We solve that problem by bringing the on chain and off chain information into an Oracle that gives you all the information on tokenized real estate deals.  
 
@@ -18,7 +18,7 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 
 ### Smart Contract Deployed on Polygon(Depolyed on Mumbai Testnet)
 
-        1. BlockOwn Utiliy Token: BT_4318_Clybourne_Ave
+        1. Utiliy Token: BT_4318_Clybourne_Ave
         2. Link: [mumbai.polygonscan]([https://mumbai.polygonscan.com/token/0x916dc17755aa4b5f716a3808778db8d50268f9b4])
         3. [mumbai.polygonscan]([https://link-url-here.org](https://mumbai.polygonscan.com/token/0x916dc17755aa4b5f716a3808778db8d50268f9b4))
       
