@@ -15,7 +15,7 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 <!-- 
 ![] (https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif). -->
 
-[!Tokenized Real estate oracle]([http://i.imgur.com/Ot5DWAW.png](https://github.com/Shamoonmohd/Oracle/blob/master/public/Screen%20Shot%202022-08-23%20at%205.47.34%20PM.png))](https://youtu.be/8pw7DfTMdXk "Tokenized Real estate oracle")
+[![Tokenized Real estate oracle]([https://github.com/Shamoonmohd/Oracle/blob/master/public/Screen%20Shot%202022-08-23%20at%205.47.34%20PM.png)](https://youtu.be/8pw7DfTMdXk "Tokenized Real estate oracle")
 
 
 
