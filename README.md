@@ -14,7 +14,8 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 ## Demo
 
 ![](https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif).
-![](https://youtu.be/8pw7DfTMdXk)
+
+![](https://youtu.be/8pw7DfTMdXk).
 
 
 
