@@ -16,7 +16,6 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 ![] (https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif).
 
 
-![] (https://youtu.be/8pw7DfTMdXk).
 
 
 ### Smart Contract Deployed on Polygon(Depolyed on Mumbai Testnet)
@@ -28,6 +27,8 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
          
       
 In the project directory, you can run:
+
+![] (https://youtu.be/8pw7DfTMdXk).
 
 ### `npm start` b
 
