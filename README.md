@@ -12,9 +12,10 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 4. Customers - We anticipate three types of users of the oracle.  First, it can be used by sophisticated players such as crypto funds that want to make markets and do arbitrage in tokenized real estate transactions.  Second, it can be used by traditional information providers that want to operate a web front end showing the various tokenized real estate properties.  Third, it can be used by Exchanges that want to offer tokenized real estate tokens for sale to digital asset investors.   The total available real estate market is gigantic, $280 Trillion, with traditional information providers like CoStar valued at $30B and generating $2B in annual revenue.  As Tokenized Real Estate, currently $140M of TVL, grows to eventually become the majority of a real estate, our Oracle can become even more valuable than these traditional providers.
 
 ## Demo
+<!-- 
+![] (https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif). -->
 
-![] (https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif).
-
+[!Tokenized Real estate oracle]([http://i.imgur.com/Ot5DWAW.png](https://github.com/Shamoonmohd/Oracle/blob/master/public/Screen%20Shot%202022-08-23%20at%205.47.34%20PM.png))](https://youtu.be/8pw7DfTMdXk "Tokenized Real estate oracle")
 
 
 
@@ -28,7 +29,7 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
       
 In the project directory, you can run:
 
-![] (https://youtu.be/8pw7DfTMdXk).
+
 
 ### `npm start` b
 
