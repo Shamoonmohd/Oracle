@@ -13,7 +13,8 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
 
 ## Demo
 
-![](https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif)
+![](https://github.com/Shamoonmohd/blockown_info/blob/master/public/ezgif.com-gif-maker.gif).
+![](https://youtu.be/8pw7DfTMdXk)
 
 
 
@@ -22,7 +23,7 @@ Imagine you've heard about tokenized real estate and all its benefits: backing b
         1. Utiliy Token: BT_4318_Clybourne_Ave
         2. Link: [mumbai.polygonscan]([https://mumbai.polygonscan.com/token/0x916dc17755aa4b5f716a3808778db8d50268f9b4])
         3. [mumbai.polygonscan]([https://link-url-here.org](https://mumbai.polygonscan.com/token/0x916dc17755aa4b5f716a3808778db8d50268f9b4))
-        4. [](https://youtu.be/8pw7DfTMdXk)
+         
       
 In the project directory, you can run:
 
